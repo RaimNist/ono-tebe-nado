@@ -291,6 +291,30 @@
   padding-right: 5px;
 }
 
+.accent-span-zero {
+  letter-spacing: 0;
+}
+
+.accent-span-2percent {
+  letter-spacing: 0.02em;
+}
+
+.accent-span-3percent {
+  letter-spacing: 0.03em;
+}
+
+.accent-span-4percent {
+  letter-spacing: 0.04em;
+}
+
+.accent-span-negative {
+  letter-spacing: -0.01em;
+}
+
+.accent-span-negative-10percent {
+  letter-spacing: -0.1em;
+}
+
 
 /* --FOOTER-- */
 .footer {
